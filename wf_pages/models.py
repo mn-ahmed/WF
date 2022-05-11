@@ -58,7 +58,6 @@ class WfPage(Page):
                         "document-link",
                         "image",
                         "superscript",
-                        "superscript",
                         "strikethrough",
                         "blockquote",
                     ]
